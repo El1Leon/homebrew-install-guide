@@ -2,8 +2,10 @@
 
 Homebrew is a powerful package manager for macOS that lets you easily install and manage software from the command line. This guide walks you through installing Homebrew on your Mac.
 
+> 💡 This is an independent guide for installing Homebrew on macOS. See full disclaimer at the end.
+
 ## Prerequisites
-- A Mac running macOS Ventura or later (works on older versions too)
+- A Mac running macOS Ventura or newer (older versions are usually supported too)
 - Administrator access
 - An internet connection
 
@@ -68,3 +70,9 @@ brew install <package-name>
 ```
 
 For more details, check the [official Homebrew documentation](https://brew.sh/).
+
+---
+
+### 🛑 Disclaimer
+
+> This project is an independent guide created to help macOS users install and configure Homebrew. It is **not affiliated with, endorsed by, or maintained by the Homebrew project or its contributors**. For the official documentation, visit [brew.sh](https://brew.sh/).
